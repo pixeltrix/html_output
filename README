@@ -1,0 +1,7 @@
+HtmlOutput
+==========
+
+This plugin makes Ruby on Rails generate HTML 4 compliant markup.
+See http://hixie.ch/advocacy/xhtml for reasons why.
+
+Copyright (c) 2009 Andrew White, released under the MIT license
